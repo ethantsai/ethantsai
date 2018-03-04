@@ -1,2 +1,0 @@
-# ethantsai
-Personal Website
